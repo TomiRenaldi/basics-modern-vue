@@ -2,5 +2,5 @@
 </script>
 
 <template>
-  <Hello />
+    <div>Hello</div>
 </template>
