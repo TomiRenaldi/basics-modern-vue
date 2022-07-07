@@ -2,5 +2,5 @@
 </script>
 
 <template>
-  <Hello />
+  <Hello name="Tomi" />
 </template>

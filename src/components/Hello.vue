@@ -1,6 +1,9 @@
 <script setup>
+defineProps({
+    name: String
+})
 </script>
 
 <template>
-    <div>Hello</div>
+    <div>Hello, {{name}}</div>
 </template>
